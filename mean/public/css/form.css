@@ -1,0 +1,13 @@
+#formulario{
+    text-align:justify;
+}
+
+#formulario .contenedor{
+    display:flex;
+    justify-content:justify;
+    flex-wrap:wrap;
+}
+
+#formulario form{
+    margin:15px;
+}
